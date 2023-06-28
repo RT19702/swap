@@ -1,0 +1,32 @@
+{
+    "coins": [{
+            "address": "0xA966b2a016cb9E8f7568C2581F281f89784C9C23",
+            "name": "lanbao",
+            "img": "/assets/btc.png",
+            "isfromDefault": true,
+            "type": "from",
+            "only": "from",
+            "balanceOf": "0.00"
+        },
+        {
+            "address": "0x127A469cF79a854eB72871d396E86d05FC59E808",
+            "name": "YUAN",
+            "img": "/assets/dai.png",
+            "istoDefault": true,
+            "type": "to",
+            "only": "all",
+            "balanceOf": "0.00"
+        },
+        {
+            "address": "0x4C2D38ddAa07754dD0C5132755ea9d071DfE5355",
+            "name": "HONGBAO",
+            "img": "/assets/eth.png",
+            "istoDefault": true,
+            "type": "",
+            "only": "all",
+            "balanceOf": "0.00"
+        }
+    ],
+    "ROUTER_PANCAKE": "0x10ED43C718714eb63d5aA57B78B54704E256024E",
+    "SWAP_CONTRACT": "0x392Ca95277118C66390DF84C39Ca1DcF2EB5DE1e"
+}
